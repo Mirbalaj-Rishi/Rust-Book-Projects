@@ -1,11 +1,19 @@
-cargo new project_name - create a project 
-cargo build - set up the project
-cargo build --release - set up a faster release version of your program, takes longer to set up
-cargo run - run the project
-cargo check - check if project can compile
+cargo new project_name | create a project 
+cargo build | set up the project - like update and downloading dependencies
+cargo build --release | set up a faster release version of your program, takes longer to set up
+cargo run | run the project
+cargo check | check if project can compile
+cargo doc --open | opens relavent documentation of all the dependencies you are using 
 
+cargo update | updates dependencies
 
 set up with git 
 git clone example.org/someproject
 cd someproject
 cargo build
+
+
+--------------Programing stuff
+let apples = 5; // immutable
+let mut bananas = 5; // mutable
+let mut guess = String::new(); //create a variable to store user input. String::new() creates an empty string
