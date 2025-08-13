@@ -1,0 +1,11 @@
+cargo new project_name - create a project 
+cargo build - set up the project
+cargo build --release - set up a faster release version of your program, takes longer to set up
+cargo run - run the project
+cargo check - check if project can compile
+
+
+set up with git 
+git clone example.org/someproject
+cd someproject
+cargo build
