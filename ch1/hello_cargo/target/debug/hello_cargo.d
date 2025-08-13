@@ -1,1 +1,0 @@
-C:\Users\mirba\OneDrive\Documents\Projects\Rust\ Book\ Projects\ch1\hello_cargo\target\debug\hello_cargo.exe: C:\Users\mirba\OneDrive\Documents\Projects\Rust\ Book\ Projects\ch1\hello_cargo\src\main.rs
