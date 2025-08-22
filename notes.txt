@@ -17,3 +17,7 @@ cargo build
 let apples = 5; // immutable
 let mut bananas = 5; // mutable
 let mut guess = String::new(); //create a variable to store user input. String::new() creates an empty string
+
+stringName.trim() is a life saver when working on user inputs
+
+continue on 3.3
